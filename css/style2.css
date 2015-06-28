@@ -200,13 +200,13 @@
 #slide-3-1 .cn-content {
     background-image: url(http://vignette2.wikia.nocookie.net/mountandblade/images/4/48/Nords_banner.jpg);
 }
-.cn-slide nav a[href="#slide-3-2"],
+.cn-slide nav a[id="#slide-3-2"],
 #slide-3-2 .cn-content {
-    background-image: url(../images/13.jpg);
+    background-image: url(../images/GitHub.jpg);
 }
-.cn-slide nav a[href="#slide-3-3"],
+.cn-slide nav a[id="#slide-3-3"],
 #slide-3-3 .cn-content {
-    background-image: url(../images/14.jpg);
+    background-image: url(../images/bitbucket.png);
 }
 .cn-slide nav a[href="#slide-3-4"],
 #slide-3-4 .cn-content {
